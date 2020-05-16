@@ -61,5 +61,5 @@
       Subject line for the order summary email. It will be in the format of
       "Just Java order for Amy" where Amy is the user's name. [CHAR LIMIT=NONE]
     -->
-    <string name="order_summary_email_subject">Just Java order for <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_email_subject"> Order for <xliff:g id="name" example="Amy">%s</xliff:g></string>
 </resources>
